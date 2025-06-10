@@ -67,4 +67,4 @@ python src/models/train_models.py
 3. Geração de previsões:
 ```bash
 python src/models/predict.py
-``` 
+```
