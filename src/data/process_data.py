@@ -156,4 +156,4 @@ if __name__ == "__main__":
     X_train, y_train, X_test, test_ids = prepare_data()
     print("Dados processados com sucesso!")
     print(f"Shape do conjunto de treino: {X_train.shape}")
-    print(f"Shape do conjunto de teste: {X_test.shape}") 
+    print(f"Shape do conjunto de teste: {X_test.shape}")
